@@ -40,10 +40,9 @@ The goal of the game is to guess a randomly generated number within a limited nu
    OR open the folder in terminal.
 
 4. Compile the program:
-
+  ```bash
     javac GuessingGame.java
 
-
 5. Run the program:
-
+    ```bash
     java GuessingGame
