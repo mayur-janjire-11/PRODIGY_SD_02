@@ -41,8 +41,9 @@ The goal of the game is to guess a randomly generated number within a limited nu
 
 4. Compile the program:
   ```bash
-    javac GuessingGame.java
-
+     javac GuessingGame.java
+```
 5. Run the program:
     ```bash
-    java GuessingGame
+       java GuessingGame
+
